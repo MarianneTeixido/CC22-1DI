@@ -24,28 +24,46 @@ Aplicar conocimientos de programación para diseñar y construir modelos 3D de o
 
 ## Sesiones 
 
-- [ ] Sesión 01 | Repaso  
-- [ ] Sesión 02 | 
-- [ ] Sesión 03 | 
-- [ ] Sesión 04 | 
-- [ ] Sesión 05 | 
-- [ ] Sesión 06 | 
-- [ ] Sesión 07 |
-- [ ] Sesión 08 | 
-- [ ] Sesión 09 | 
-- [ ] Sesión 10 |
-- [ ] Sesión 11 |
-- [ ] Sesión 12 |
-- [ ] Sesión 13 |
-- [ ] Sesión 14 |
-- [ ] Sesión 15 |
-- [ ] Sesión 16 | Proyecto final 
-- [ ] 
-# Entregas y actividades 
+- [ ] Sesión 01 | 04.08 - Repaso 
+- [ ] Sesión 02 | 11.08
+- [ ] Sesión 03 | 18.08
+- [ ] Sesión 04 | 25.08 
+- [ ] Sesión 05 | 01.09 - Primera entrega parcial
+- [ ] Sesión 06 | 08.09
+- [ ] Sesión 07 | 15.09
+- [ ] Sesión 08 | 22.09
+- [ ] Sesión 09 | 29.09
+- [ ] Sesión 10 | 06.10 - Segunda entrega parcial
+- [ ] Sesión 11 | 13.10 
+- [ ] Sesión 12 | 20.10
+- [ ] Sesión 13 | 27.10
+- [ ] Sesión 14 | 03.11
+- [ ] Sesión 15 | 10.11
+- [ ] Sesión 16 | 17.11 - Presentación de proyectos finales
 
-- [ ] 30.04.21 - Primera entrega parcial 
-- [ ] 21.05.21 - Segunda entrega parcial
-- [ ] 04.06.21 - Entrega final 
+Periodo de entregas y claraciones. 
+- 24.11
+- 01.11
+- 08.12
+
+## Actividades 
+
+- [ ] Primera entrega parcial 
+- [ ] Segunda entrega parcial
+- [ ] Entrega final 
+
+## Fechas importantes
+
+Publicación de evaluaciones  
+- Del 9 al 16 de diciembre, 2021  
+
+## Días de asueto
+
+- 16 septiembre
+- 4 al 9 octubre
+- 1 y 2 noviembre
+- 15 noviembre
+- 13 diciembre - 21 enero. Vacaciones.
 
 ## Estructura de clase:
 
