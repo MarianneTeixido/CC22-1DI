@@ -24,9 +24,10 @@ Aplicar conocimientos de programación para diseñar y construir modelos 3D de o
 
 ## Sesiones 
 
-- [ ] Sesión 01 | 04.08 - Repaso 
-- [ ] Sesión 02 | 11.08 - Repaso, primitivos, cam, if  
-		        - Recomendaciones: Seguir el hashtag #processing en Twitter.
+- [X] Sesión 01 | 04.08 - Repaso 
+- [ ] Sesión 02 | 11.08 
+	- Repaso, primitivos, cam,if  
+	- Recomendaciones: Seguir el hashtag #processing en Twitter.
 - [ ] Sesión 03 | 18.08
 - [ ] Sesión 04 | 25.08 
 - [ ] Sesión 05 | 01.09 - Primera entrega parcial
