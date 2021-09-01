@@ -25,10 +25,16 @@ Aplicar conocimientos de programación para diseñar y construir modelos 3D de o
 ## Sesiones 
 
 - [X] Sesión 01 | 04.08 - Repaso 
-- [ ] Sesión 02 | 11.08 
+- [X] Sesión 02 | 11.08 
 	- Repaso, primitivos, cam,if  
 	- Recomendaciones: Seguir el hashtag #processing en Twitter.
 - [ ] Sesión 03 | 18.08
+	[P5.js](https://p5js.org/)  
+	- Referencias: [Flor de Fuego](https://www.instagram.com/p/CP4t1Y6l31-/), [P5LIVE](https://teddavis.org/p5live/) (Ted Davis)
+	- Diferencias con Processing
+	- Crear una cuenta P5js
+	- [WEBGL](https://es.wikipedia.org/wiki/WebGL)
+	- Traducir un sketch
 - [ ] Sesión 04 | 25.08 
 - [ ] Sesión 05 | 01.09 - Primera entrega parcial
 - [ ] Sesión 06 | 08.09
